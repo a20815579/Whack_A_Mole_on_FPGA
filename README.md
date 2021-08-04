@@ -2,7 +2,7 @@
 ### 透過FPGA板、keypad、點矩陣顯示器、七段顯示器實作的打地鼠遊戲
 FPGA版使用DE0-CV，如下圖  
     
-![image](https://www.terasic.com.tw/attachment/archive/942/image/image_43_thumb.jpg)
+![image](https://images.offerup.com/29akojGOnCuHByERsvasaaHdhwg=/1008x756/a662/a6623b01792d4a3b9840056e364a7f0e.jpg)
 ## 遊戲畫面說明
   
 ![image](https://i.imgur.com/di60Fvx.jpg)  
