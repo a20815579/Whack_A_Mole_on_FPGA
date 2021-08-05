@@ -16,3 +16,12 @@ FPGA版使用DE0-CV，如下圖
   
 ![image](https://i.imgur.com/42AfJrk.jpg)  
 ![image](https://i.imgur.com/4ZKyrLf.jpg)  
+
+## Module 說明
+- matrixKeyboard_drive & keypad：檢測哪個按鈕被按下
+- hit_gopher：處理打到地鼠的訊號
+- random_gen_state：隨機產生下個地鼠
+- dot_displayer：點矩陣顯示器控制
+- SevenSegment：七段顯示器控制
+- gg：呈現遊戲結束時的GG畫面
+- whack_a_hole：連結各module使遊戲運行
